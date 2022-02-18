@@ -1,0 +1,9 @@
+C:\Users\nonna\OneDrive\Desktop\AIE\Database fundamentals\RecapSessionDBLink\RecapSessionDBLink\obj\Debug\RecapSessionDBLink.csprojAssemblyReference.cache
+C:\Users\nonna\OneDrive\Desktop\AIE\Database fundamentals\RecapSessionDBLink\RecapSessionDBLink\obj\Debug\RecapSessionDBLink.Form1.resources
+C:\Users\nonna\OneDrive\Desktop\AIE\Database fundamentals\RecapSessionDBLink\RecapSessionDBLink\obj\Debug\RecapSessionDBLink.Properties.Resources.resources
+C:\Users\nonna\OneDrive\Desktop\AIE\Database fundamentals\RecapSessionDBLink\RecapSessionDBLink\obj\Debug\RecapSessionDBLink.csproj.GenerateResource.cache
+C:\Users\nonna\OneDrive\Desktop\AIE\Database fundamentals\RecapSessionDBLink\RecapSessionDBLink\bin\Debug\RecapSessionDBLink.exe.config
+C:\Users\nonna\OneDrive\Desktop\AIE\Database fundamentals\RecapSessionDBLink\RecapSessionDBLink\bin\Debug\RecapSessionDBLink.exe
+C:\Users\nonna\OneDrive\Desktop\AIE\Database fundamentals\RecapSessionDBLink\RecapSessionDBLink\bin\Debug\RecapSessionDBLink.pdb
+C:\Users\nonna\OneDrive\Desktop\AIE\Database fundamentals\RecapSessionDBLink\RecapSessionDBLink\obj\Debug\RecapSessionDBLink.exe
+C:\Users\nonna\OneDrive\Desktop\AIE\Database fundamentals\RecapSessionDBLink\RecapSessionDBLink\obj\Debug\RecapSessionDBLink.pdb
